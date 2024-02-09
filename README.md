@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EmreSaddler
-- 🌱 I’m currently learning computer vision in Python (opencv)
-     I’m currently working with a team whose name is Cyberova in my university (Cukurova University)
-- 📫 How to reach me: emrsrc59@gmail.com
+-  Hi, I’m @EmreSaddler
+-  I am a third-year computer engineering student in Cukurova Uni.
+-  My best advantage is my ability to search and learn!
+-  How to reach me: emresarac.ba@gmail.com
  
 
 
